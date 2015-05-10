@@ -9,7 +9,7 @@ function mjg_category_loop( $grid_classes ) {
 	global $_genesis_loop_args, $loop_counter;
 	global $post;
 	$columnCounter = 1;
-	$columns = 3; // Alter this number to change the number of columns
+	$columns = 2; // Alter this number to change the number of columns
 	// Be able to convert the number of columns to the class name in Genesis
 	$fractions = array( '', 'half', 'third', 'fourth', 'fifth', 'sixth' );
 	//categories are going into an array! here are the parameters this array should have

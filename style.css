@@ -253,6 +253,12 @@ h6 {
 	font-size: 16px;
 }
 
+.catGridTitle {
+	background-color:#eee;
+	padding:10px;
+
+}
+
 /* ## Objects
 --------------------------------------------- */
 
@@ -276,6 +282,10 @@ img {
 
 .site-header {
 	background-color:#fff;
+}
+
+.site-header .wrap {
+	background-color:white;
 }
 
 /* ## Gallery
@@ -596,6 +606,50 @@ th {
 	margin-left: 0;
 }
 
+/* home page table added 4/2014, updated 5/2015 */
+.homeTable td {
+	width:240px;
+	padding:0px 5px;
+}
+
+
+.homeTable ul li {
+	padding:10px;
+	list-style-type:none;
+	height:90px;
+	border-bottom:1px #eee solid;
+	overflow:hidden;
+	background-color:white;
+	line-height:1.3em;
+}
+
+.homeTable td img {
+	float:left;
+	padding-right:3px;
+}
+
+.catGridTitle {
+	margin:0px auto;
+	padding: 10px;
+	background-color:#239fe2;
+}
+
+.catGridTitle a {
+	color:#fff;
+}
+
+
+.welcomeText {
+	width:70%;
+	margin:0px auto;
+	background-color:#eee;
+}
+
+.welcomeText p {
+	padding:10px 5px;
+	background-color:#eee;
+}
+
 
 /* # Common Classes
 ---------------------------------------------------------------------------------------------------- */
@@ -886,6 +940,7 @@ img.alignright,
 
 .site-header .wrap {
 	padding: 10px 0;
+	background-color:white;
 }
 
 /* ## Title Area
@@ -1071,7 +1126,7 @@ img.alignright,
 --------------------------------------------- */
 
 .nav-primary {
-	background:#62b13f;
+	background:#144f7b;
 }
 
 .nav-primary .genesis-nav-menu a {
@@ -1369,6 +1424,19 @@ li.comment {
 
 .site-footer p {
 	margin-bottom: 0;
+}
+
+/* Additional elements MJG */
+
+.keyDetails {
+  background-color: #144f7b;
+  color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.tableImg {
+	width:150px;
 }
 
 /* Responsive Menu
