@@ -1,12 +1,15 @@
+# Laptop Battery Guide Theme
+
+![alt text](screenshots/lbg-github-screenshot.png "Laptop Battery Guide screenshot 5 2015")
+
 # Details
 
-Blog post: https://sridharkatakam.com/genesis-starter-child-theme
+Extended from: https://sridharkatakam.com/genesis-starter-child-theme
 
 
 # Genesis Sample Theme
 
 Github original project link: https://github.com/copyblogger/genesis-sample
-
 
 ## Installation Instructions
 
