@@ -1132,6 +1132,8 @@ img.alignright,
 .nav-primary .genesis-nav-menu a {
 	text-transform:uppercase;
 	color: #fff;
+	width:120px;
+	padding: 10px 20px 10px 5px;
 }
 
 .nav-primary .genesis-nav-menu .sub-menu a {
